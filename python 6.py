@@ -14,7 +14,7 @@ red = (255,0,0)
 car_width = 58
 
 gameDisplay = pygame.display.set_mode((display_width,display_height))
-pygame.display.set_caption('A bit Racey')
+pygame.display.set_caption('A bit Racey')#really reaally fastt.........................
 clock = pygame.time.Clock()
 
 carImg = pygame.image.load('car.png')
